@@ -6,15 +6,6 @@ import styles from './Header.module.scss'
 
 const Header = () => (
   <header>
-    <div className={styles.wrapper}>
-      <Link to="/">
-        <img
-          className={styles.avatar}
-          src={config.userAvatar}
-          alt={config.userName}
-        />
-      </Link>
-    </div>
     <nav>
       <ul className={styles.mainNav}>
         <Categories activeClassName={styles.activeNav} />
@@ -23,6 +14,16 @@ const Header = () => (
         </li>
       </ul>
     </nav>
+    <Link to="/">
+      <div className={styles.logo}>
+        <div className={`${styles.rec  } ${  styles.rec1}`} />
+        <div className={`${styles.rec  } ${  styles.rec2}`} />
+        <div className={`${styles.rec  } ${  styles.rec3}`} />
+        <div className={`${styles.rec  } ${  styles.rec4}`} />
+        <div className={`${styles.rec  } ${  styles.rec5}`} />
+        <div className={styles.logoShadow} />
+      </div>
+    </Link>
   </header>
   )
 

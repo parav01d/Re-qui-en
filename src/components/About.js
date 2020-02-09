@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => (
   <>
     <h3>After three days without programming, life becomes meaningless.</h3>
-    <p>Seven years ago, I started trying to be the best at programming. I read really much books and coded the hell out of me only to understand in the end:</p>
+    <p>Seven years ago, I started trying to be the best at programming. I read really many books and coded the hell out of me only to understand in the end:</p>
     <p> There is no constructor or instance of master programmer.</p>
     <p>Only a team of highly skilled individuals with strong collaboration intends is able to create good software. So I became a strong part of several companies, wrote a lot of beautiful code (of cause with a mechanical keyboard) and make nice concepts to establish business models. But yeah like every other super hero there is another side of the medal, I cannot be the all time coding monkey because most importantly I am a human, with a little family and a lot of hobbies. I play magic cards, fly freestyle drones, go bouldering and at last but not least I spend a lot time with my girlfriend and my son. My favourite colours are green, orange and sometimes violett (Have you ever seen a lavender field? It looks so beautiful).</p>
     <h3>History</h3>

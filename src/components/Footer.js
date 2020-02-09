@@ -7,6 +7,7 @@ const Footer = () => (
     <div className={styles.container}>
       <div>
         <a
+          styles={{color: "#fff"}}
           href={`https://github.com/${config.userGitHub}`}
           target="_blank"
           rel="noopener noreferrer"
