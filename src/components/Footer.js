@@ -16,6 +16,13 @@ const Footer = () => (
         </a>
       </div>
       <div className={styles.copyright}>{config.copyright}</div>
+      <div className={styles.logo}>
+        <div className={`${styles.rec  } ${  styles.rec1}`} />
+        <div className={`${styles.rec  } ${  styles.rec2}`} />
+        <div className={`${styles.rec  } ${  styles.rec3}`} />
+        <div className={`${styles.rec  } ${  styles.rec4}`} />
+        <div className={`${styles.rec  } ${  styles.rec5}`} />
+      </div>
     </div>
   </footer>
   )

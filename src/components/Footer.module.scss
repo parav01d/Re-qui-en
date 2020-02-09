@@ -24,3 +24,58 @@ footer {
         text-align: right;
     }
 }
+
+
+@media (max-width: 1000px) {
+    .logo {
+      display: none;
+    }
+}
+
+.logo {
+  position: absolute;
+  right: 10px;
+  height: 70px;
+  width: 70px;
+  background: #29313C;
+  margin-right: 50px;
+  margin-left: 30px;
+  transform: rotateX(180deg) rotateZ(-10deg) rotateY(0deg);
+}
+
+.rec {
+  position: absolute;
+  background: #A3DE89;
+}
+
+.rec:hover {
+  background: #DE4E4B;
+}
+
+.rec1 {
+  top: 3%;
+  left: 3%;
+  width: 30%;
+  height: 30%;
+}
+
+.rec2 {
+  top: 3%;
+  left: 67%;
+  width: 30%;
+  height: 30%;
+}
+
+.rec3 {
+  top: 35%;
+  left: 3%;
+  width: 30%;
+  height: 30%;
+}
+
+.rec4 {
+  top: 35%;
+  left: 36%;
+  width: 30%;
+  height: 30%;
+}
