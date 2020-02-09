@@ -4,6 +4,11 @@ import styles from './Bio.module.scss'
 
 const Bio = ({ config, expanded }) => (
   <div className={styles.wrapper}>
+    <img
+      className={styles.avatar}
+      src={config.userAvatar}
+      alt={config.userName}
+    />
     <p>
       Written by <strong>{config.userName}</strong> who lives and works in Leipzig building beautiful things.
       {` `}

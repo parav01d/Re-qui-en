@@ -1,5 +1,5 @@
 import Typography from "typography"
-import fairyGatesTheme from 'typography-theme-stow-lake'
+import fairyGatesTheme from 'typography-theme-github'
 
 const typography = new Typography(fairyGatesTheme)
 
