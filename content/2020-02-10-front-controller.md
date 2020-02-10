@@ -1,7 +1,7 @@
 ---
 date: 2020-02-10
 title: "Front Controller"
-cover: "https://unsplash.it/400/300/?random?BoldMage"
+cover: "/images/empty.jpg"
 categories:
     - Patterns
 tags:

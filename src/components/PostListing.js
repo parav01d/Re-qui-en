@@ -28,7 +28,14 @@ import styles from  './PostsListing.module.scss'
           <Link to={post.path} key={post.title}>
             <article className={styles.articleBox}>
               <div className={styles.right}>
-                <h3 className={styles.title}>{post.title}</h3>
+                <div className={styles.titleWrapper}>
+                  <img
+                    className={styles.avatar}
+                    src={post.cover}
+                    alt={post.title}
+                  />
+                  <h3 className={styles.title}>{post.title}</h3>
+                </div>
                 <div className={styles.meta}>{post.date}  &mdash; <span>{post.categories.join(' / ')}</span>  &mdash; {post.timeToRead} Min Read </div>
                 <p>{post.excerpt}</p>
               </div>

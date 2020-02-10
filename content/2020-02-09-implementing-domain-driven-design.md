@@ -1,7 +1,7 @@
 ---
 date: 2020-02-09
 title: "Implementing Domain-Driven Design"
-cover: "https://unsplash.it/400/300/?random?BoldMage"
+cover: "/images/implementing-domain-driven-design.jpg"
 categories:
     - Books
 tags:

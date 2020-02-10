@@ -1,7 +1,7 @@
 ---
 date: 2020-02-09
-title: "Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)"
-cover: "https://unsplash.it/400/300/?random?BoldMage"
+title: "Clean Code: A Handbook of Agile Software Craftsmanship"
+cover: "/images/clean-code.jpg"
 categories:
     - Books
 tags:

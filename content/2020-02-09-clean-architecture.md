@@ -1,7 +1,7 @@
 ---
 date: 2020-02-09
-title: "Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)"
-cover: "https://unsplash.it/400/300/?random?BoldMage"
+title: "Clean Architecture: A Craftsman's Guide to Software Structure and Design"
+cover: "/images/clean-architecture.jpg"
 categories:
     - Books
 tags:

@@ -1,7 +1,7 @@
 ---
 date: 2020-02-09
 title: "Domain-Driven Design: Tackling Complexity in the Heart of Software"
-cover: "https://unsplash.it/400/300/?random?BoldMage"
+cover: "/images/domain-driven-design.jpg"
 categories:
     - Books
 tags:
