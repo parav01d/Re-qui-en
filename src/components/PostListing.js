@@ -37,7 +37,14 @@ import styles from  './PostsListing.module.scss'
                   <h3 className={styles.title}>{post.title}</h3>
                 </div>
                 <div className={styles.meta}>{post.date}  &mdash; <span>{post.categories.join(' / ')}</span>  &mdash; {post.timeToRead} Min Read </div>
-                <p>{post.excerpt}</p>
+                <p>{
+                  post.excerpt
+                  .replace("About the book ", "")
+                  .replace("About the Book ", "")
+                  .replace("About the pattern ", "")
+                  .replace("About the Pattern ", "")
+                }
+                </p>
               </div>
             </article>
           </Link>
