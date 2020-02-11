@@ -1,7 +1,7 @@
 ---
 date: 2020-02-10
 title: "Front Controller"
-cover: "/images/empty.jpg"
+cover: "/images/empty.png"
 categories:
     - Patterns
 tags:
