@@ -10,7 +10,7 @@ const Bio = ({ config, expanded }) => (
       alt={config.userName}
     />
     <p>
-      Written by <strong>{config.userName}</strong> who lives and works in Leipzig building beautiful things.
+      Written by <strong>{config.userName}</strong> who is the senior of senior developers, the most important person of master developers to the max.
       {` `}
 
       <Follow
