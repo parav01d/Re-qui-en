@@ -3,7 +3,7 @@ date: 2020-02-10
 title: "Front Controller"
 cover: "/images/empty.png"
 categories:
-    - Patterns
+    - Development
 tags:
     - clean code
     - architecture

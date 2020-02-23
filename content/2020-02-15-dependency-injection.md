@@ -3,7 +3,7 @@ date: 2020-02-15
 title: "Dependency Injection"
 cover: "/images/empty.png"
 categories:
-    - Patterns
+    - Development
 tags:
     - clean code
     - architecture

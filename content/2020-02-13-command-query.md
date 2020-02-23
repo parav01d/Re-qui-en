@@ -3,7 +3,7 @@ date: 2020-02-13
 title: "Command - Query"
 cover: "/images/empty.png"
 categories:
-    - Patterns
+    - Development
 tags:
     - clean code
     - architecture

@@ -7,9 +7,9 @@ const About = () => (
     <p> There is no constructor or instance of master programmer.</p>
     <p>Only a team of highly skilled individuals with strong collaboration intends is able to create good software. So I became a strong part of several companies, wrote a lot of beautiful code (of cause with a mechanical keyboard) and make nice concepts to establish business models. But yeah like every other super hero there is another side of the medal, I cannot be the all time coding monkey because most importantly I am a human, with a little family and a lot of hobbies. I play magic cards, fly freestyle drones, go bouldering and at last but not least I spend a lot time with my girlfriend and my son. My favourite colours are green, orange and sometimes violett (Have you ever seen a lavender field? It looks so beautiful).</p>
     <h3>History</h3>
-    <h4>2020 - now Software Architect/Requirements Engineer/Project Manager at Town & Country Haus Lizenzgeber GmbH </h4>
+    <h4>2020 - now Software Architect / Requirements Engineer at Town & Country Haus Lizenzgeber GmbH </h4>
     <p>Starting at 01.04.2020</p>
-    <h4>2018 - 2020 Software Architect/Developer at SMARTPLATZ GmbH </h4>
+    <h4>2018 - 2020 Software Architect at SMARTPLATZ GmbH </h4>
     <p>I was recommended by a friend and got my first chance as a software architect for a startup project. We created an application to support the local retail in digitalisation purposes. I introduced domain driven design to the team and helped them in modeling their business structure. Because the team was not very experienced, I laid the foundations for project management and collaboration.</p>
     <p>• initialised the backend infrastructure (Express, Postgres, Docker, RabbitMQ) and architecture using domain driven design and clean architecture ( hijacked the bootstrapping process and manipulating the dependency injection container to run e2e test directly against the code )</p>
     <p>• wrote the first version of the Smartplatz app with react native and the second version with expo ( not released yet )</p>

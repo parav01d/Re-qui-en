@@ -39,7 +39,6 @@
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
     "typography-theme-github": "^0.16.19",
-    "typography-theme-stow-lake": "^0.16.19",
     "url-join": "^4.0.1"
   },
   "devDependencies": {
