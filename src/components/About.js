@@ -47,6 +47,23 @@ const About = () => (
     <p>Network Technology and System Programming</p>
     <h4>2005 - 2008 General Qualification For University Entrance (2.3) at JohannFriedrich-Pierer School</h4>
     <p>Data Processing and Information Technology</p>
+    <h3>Skills</h3>
+    <h4>Clean Code</h4>
+    <p>Test Driven Development, Behavior Driven Development, Domain Driven Design, Clean Architecture, Event Driven Architecture, API Design, Git, UnitTesting, Integration/E2E-Testing, Performance-Testing</p>
+    <h4>Frontend-Development</h4>
+    <p>React, Redux(-Observables), RxJS, Sass(-Modules), Webpack, Jest, AVA, Cypress</p>
+    <h4>Backend-Development</h4>
+    <p>Node.js, Express, Sails, Laravel, Lumen, Silex, Composer, Docker, DockerCompose, Mocha, Sinon, Chai, Swagger, Gatling IO</p>
+    <h4>App-Development</h4>
+    <p>React Native, Expo</p>
+    <h4>Databases</h4>
+    <p>Typeorm,MySQL, Postgres, Realm, Indexing and Performance Optimization</p>
+    <h4>Languages</h4>
+    <p>Typescript, ECMAScript, PHP, Bash</p>
+    <h4>Team & Agile Collaborations</h4>
+    <p>Collaboration, Communication, Agile Development Practices, Scrum, Kanban, Context Swarming</p>
+    <h4>Management</h4>
+    <p>Requirements Engineering, Leadership</p>
   </>
 )
 
