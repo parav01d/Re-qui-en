@@ -172,11 +172,8 @@ class Injector implements IInjector {
 ```
 
 ```javascript
-class MockService {
-  public dontTestMe(x: number): number {
-    return x;
-  }
-}
+// the create function is static so there is no way to change it for test purposes.
+// so the dontTestMe() function gets called without change or replacement. 
 const client = Injector.create();
 const result = client.methodToTest(1,2);
 expect(result).toBe(3);
