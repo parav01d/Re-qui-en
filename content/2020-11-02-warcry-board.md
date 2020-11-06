@@ -40,7 +40,7 @@ After spending some time in Keynote putting together a combination of map tiles,
 ### The Print Job Gift
 
 ![alt text](/images/warcry-board/printer.JPG "3D Printer")
-
+After we have calculated everything, we have come to 3.5 kilograms of material. But the Lord was gracious and just took it and started printing.
 
 <br></br>
 
