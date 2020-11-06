@@ -17,7 +17,7 @@ Hello Fellows, I've been building my Warcry Board for half a year now. After sho
 
 ### My Birthday Party
 
-![alt text](/images/warcry-board/old_field.jpg "Old Warcry Field")
+![alt text](/images/warcry-board/old_field.JPG "Old Warcry Field")
 
 As always, I got a lot of toys for my birthday. This time it was all about Warhammer Age of Sigmar and Warcry. But this time there was that special moment when I got 1 kilogram of printable material. I don't know how much a kilogram is, but at first I assumed it was a lot but the future will teach me better.
 
