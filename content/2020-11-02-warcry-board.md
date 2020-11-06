@@ -114,7 +114,7 @@ Honestly, the first game was awesome. We tried not to climb over the wall and to
 <br></br>
 
 ### A Dream About Heights and Lows
-![alt text](/images/warcry-board/dream.JPG "Dream")
+![alt text](/images/warcry-board/dream.jpg "Dream")
 At some point I got this picture suggested on Instagram and thought: This is exactly what we need. So I looked on Amazon for hard foam blocks with 6 "to 6" with different heights and found [these ones](https://www.amazon.de/Sculpture-Block-151550-Hartschaumblock-Modellierblock/dp/B01E5WMYO8). There are cheaper alternatives out there and I can recommend trying another one because these are very crumbly.
 
 <br></br>
