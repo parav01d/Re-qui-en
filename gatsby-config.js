@@ -18,7 +18,7 @@ module.exports = {
     }
   },
   plugins: [
-    
+
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
     "gatsby-plugin-htaccess",
@@ -59,12 +59,6 @@ module.exports = {
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-autolink-headers"
         ]
-      }
-    },
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: config.googleAnalyticsID
       }
     },
     {
@@ -180,4 +174,3 @@ module.exports = {
     }
   ]
 };
-
