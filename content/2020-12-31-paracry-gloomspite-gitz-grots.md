@@ -54,22 +54,6 @@ For each Grot between your fighter and your target enemy you extend the reach of
 ---
 <br/>
 
-#### [175P] Funguid Cave-Shaman ( 18❤ 4🦵 3🛡)
-
-![alt text](/images/paracry/cave-shaman.png "Cave-Shaman")
-
-|   | 📏 |🎲 | 💪 | 🩸|
-| - |:-:|:-:| :--:| -:|
-| 🗡|  1" |3 | 4 | 1/4 |
-| ☄ |  3-7" |2 | 3 | 3/6 |
-
-🎲 🎲 🎲
-
-🎲 🎲 🎲 🎲
-
----
-<br/>
-
 ### Possible Fighters:
 
 #### [65P] Shoota ( 8❤ 4🦵 3🛡)
@@ -164,65 +148,28 @@ For each Grot between your fighter and your target enemy you extend the reach of
 ---
 <br/>
 
-#### [85] Boggleye ( 12❤ 4🦵 3🛡)
+### Recommended List:
 
-![alt text](/images/paracry/boggleye.png "Boggleye")
+[150P] Moonclan Boss
 
-|   | 📏 |🎲 | 💪 | 🩸|
-| - |:-:|:-:| :--:| -:|
-| 🗡|  2" |3 | 3 | 1/4 |
+[65P] Shoota
 
-🎲 🎲 🎲 **Mesmerise:** Target within 6" no 🏃or 🤾
+[65P] Shoota
 
----
-<br/>
+[70P] Stabba
 
-#### [85] Scaremonger ( 16❤ 4🦵 3🛡)
+[70P] Stecha
 
-![alt text](/images/paracry/scaremonger.png "Scaremonger")
+[85P] Sneaky Snuffler
 
-|   | 📏 |🎲 | 💪 | 🩸|
-| - |:-:|:-:| :--:| -:|
-| 🗡|  1" |4 | 3 | 1/4 |
+[85P] Sneaky Snuffler
 
-🎲 🎲 🎲 **Bogeyman Dance:** + 1/2 🎲🦵one Target in 6"
+[45P] Netta
 
----
-<br/>
+[45P] Netta
 
-#### [85] Shroomancer ( 12❤ 4🦵 3🛡)
+[45P] Squig Herder
 
-![alt text](/images/paracry/shroomancer.png "Shroomancer")
+[140P] Cave Squig
 
-|   | 📏 |🎲 | 💪 | 🩸|
-| - |:-:|:-:| :--:| -:|
-| 🗡|  2" |3 | 3 | 1/4 |
-
-🎲 🎲 🎲 **Fungoid Cloud:** - 1/2 🎲 attack 🎲 one Target in 6"
-
----
-<br/>
-
-#### [85] Brewgit ( 12❤ 4🦵 3🛡)
-
-![alt text](/images/paracry/brewgit.png "Brewgit")
-
-|   | 📏 |🎲 | 💪 | 🩸|
-| - |:-:|:-:| :--:| -:|
-| 🗡|  1" |4 | 3 | 1/3 |
-
-🎲 🎲 🎲 **Loonshine Portion:** Random: 4❤ or +1🎲/+1💪 or 4🩸one target within 6"
-
----
-<br/>
-
-#### [85] Spiker ( 12❤ 4🦵 3🛡)
-
-![alt text](/images/paracry/spiker.png "Spiker")
-
-|   | 📏 |🎲 | 💪 | 🩸|
-| - |:-:|:-:| :--:| -:|
-| 🗡|  2" |3 | 3 | 1/4 |
-
----
-<br/>
+[140P] Cave Squig

@@ -91,3 +91,15 @@ tags:
 
 ---
 <br/>
+
+### Recommended List:
+
+[275P] Loongboss on Giant Cave Squig
+
+[220P] Boingrot Bounder
+
+[220P] Boingrot Bounder
+
+[220P] Boingrot Bounder
+
+[220P] Boingrot Bounder

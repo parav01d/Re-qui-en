@@ -50,9 +50,12 @@ I really like the simplicity of the WarCry rules so all of them staying untouche
 
 ### Game
 
+🤾 Disengage 
+
 🏃 Move Action
 
 🤼 Attack Action
+
 
 
 ## Game Development
